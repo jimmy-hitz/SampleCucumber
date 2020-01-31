@@ -1,0 +1,48 @@
+{
+  "TestData" : {
+  			   "BROSWER_CONFIG": [{
+								"browser": "chrome",
+								"browserName": "firefox",
+    							"browserHeadlessMode": "disable",
+    							"ignoreProtectedModeSettings": true    
+    				  			}],
+    				  
+		    "SELENIUM_CONFIG": [{
+		    					"implicitWait": "10",
+								"gridPath": "http://localhost:4444/wd/hub"
+							   }], 				   
+		    
+		    "DEVICE_CONFIG": [{
+								"device": "desktop",
+								"remoteLevel": "LOCAL"    
+		    				 }],
+		    				  
+		    "SHIPPING_ADDRESS": [{
+								"FirstName": "Adam",
+		        				"LastName": "Smith",
+		        				"Line1Address:" : "7 times sq",
+		        				"ZipCode": "10036",
+		        				"PhoneNo": "9999988888"  
+		    				 	 }],
+		    
+		  	"POP_UP_CONFIG": {
+		  						"BounceX-Overlay": [{
+													"bounceXStatus": "ON",
+		    										"bounceXClientOverlayPDP": "ON",  
+		    										"bounceXClientOverlayTimeOut": "10000",
+		   											"bounceXTimeOut": "15000"  
+		    				 						}],
+		    				 	
+		    				 	"AddToBag-Overlay":	[{
+		    				 						"addToBagOverlay": "6000"
+		    				 						}]			
+		  					 },
+		  					
+		  	
+		    "TESTING_CONFIG": [{
+								 "defaultUserName": "robin.accept.qa@gmail.com",
+		    					 "defaultPassword": "sapient@123",
+								 "build": "FastForward"    
+		    				  }]
+		    }
+}

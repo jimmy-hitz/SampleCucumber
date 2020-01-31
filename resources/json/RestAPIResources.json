@@ -1,0 +1,5 @@
+{
+	"baseURI": "http://localhost",
+	"port": "8085",
+	"basePath": "/student/"
+}

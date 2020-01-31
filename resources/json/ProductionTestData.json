@@ -1,0 +1,22 @@
+{
+	"***********": "********************************************************************************",
+	"browser": "chrome",
+	"browserHeadlessMode": "disable",
+	"device": "desktop",
+	"remoteLevel": "LOCAL",
+	"implicitWait": "10",
+	"gridPath": "http://localhost:4444/wd/hub",
+	"************": "********************************************************************************",
+	"Comment(BounceX)": "Bounce Exchange PopUp",
+	"bounceXStatus": "ON",
+	"bounceXClientOverlayPDP": "ON",
+	"overlayTimeOut": "10000",
+	"genericTimeOut": "5000",
+	"averageTimeOut": "3000",
+	"averageTime": "10000",
+	"bounceXClientOverlayTimeOut": "10000",
+	"bounceXTimeOut": "10000",
+	"_************": "********************************************************************************",
+	"LBTestData": "LBTestData",
+	"LBPlpName": "PlpName"
+}

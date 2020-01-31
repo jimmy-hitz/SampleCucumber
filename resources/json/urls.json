@@ -1,0 +1,31 @@
+{
+	"LB": {
+		"QA1": "https://qa1.lanebryant.com/",
+		"QA2": "https://qa2.lanebryant.com/",
+		"PROD": "https://www.lanebryant.com/",
+		"DRYRUN": "https://dryrun.lanebryant.com/"
+	},
+	"CA": {
+		"QA1": "https://qa1.catherines.com",
+		"QA2": "https://qa2.catherines.com",
+		"PROD": "https://www.catherines.com",
+		"DRYRUN": "https://dryrun.catherines.com/"
+	},
+	"DB": {
+		"QA1": "https://qa1.dressbarn.com/",
+		"QA2": "https://qa2.dressbarn.com/",
+		"PROD": "https://www.dressbarn.com/",
+		"DRYRUN": "https://dryrun.dressbarn.com/"
+	},
+	"MAU": {
+		"QA1": "https://qa1.maurices.com/",
+		"QA2": "https://qa2.maurices.com/",
+		"PROD": "https://www.maurices.com/",
+		"DRYRUN": "https://dryrun.maurices.com/"
+	},
+	"JUS": {
+		"QA1": "https://qa1.shopjustice.com/",
+		"QA2": "https://qa2.shopjustice.com/",
+		"PROD": "https://www.shopjustice.com/",
+		"DRYRUN": "https://dryrun.shopjustice.com/"
+	}}
