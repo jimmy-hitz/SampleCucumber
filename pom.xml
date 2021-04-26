@@ -24,7 +24,7 @@
 		<maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
 		<maven.failsafe.plugin.version>2.22.1</maven.failsafe.plugin.version>
 		<maven.build.helper.plugin.version>3.0.0</maven.build.helper.plugin.version>
-		<commons-io>2.6</commons-io>
+		<commons-io>2.7</commons-io>
 		<poi.version>3.16</poi.version>
 	</properties>
 
